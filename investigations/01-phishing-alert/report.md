@@ -76,7 +76,9 @@ This one pretends to be an Amazon delivery notice, saying the package couldn't b
 **What I recommended:**
 Block the sender domain and the malicious link/IP at the email gateway and firewall, and let the recipient know not to click anything from that email.
 
-**Evidence:**`<investigations/01-phishing-alert/alert2.png>`
+**Evidence:****Evidence:**
+![Alert 2 Screenshot](./alert2.png)
+![IOC Check - Alert 2](./ioc_alert2.png)
 
 ---
 
