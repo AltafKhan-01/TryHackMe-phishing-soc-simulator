@@ -76,7 +76,7 @@ This one pretends to be an Amazon delivery notice, saying the package couldn't b
 **What I recommended:**
 Block the sender domain and the malicious link/IP at the email gateway and firewall, and let the recipient know not to click anything from that email.
 
-**Evidence:****Evidence:**
+**Evidence:**
 ![Alert 2 Screenshot](./alert2.png)
 ![IOC Check - Alert 2](./ioc_alert2.png)
 
@@ -103,7 +103,7 @@ This alert showed a machine on the network (10.20.2.17) trying to reach `bit.ly/
 **What I recommended:**
 Keep the URL/IP blocked, check if any other devices tried the same connection, and follow up with h.harris about phishing awareness since they clicked the link.
 
-**Evidence:**`<investigations/01-phishing-alert/alert3.png>`
+**Evidence:**![Alert 3 Screenshot](./alert3.png)
 
 ---
 
@@ -127,7 +127,7 @@ This email claims there was an "unusual sign-in" to the recipient's Microsoft ac
 **What I recommended:**
 Block the sender domain/IP, add `m1crosoftsupport.co` to the blocklist, and tell the recipient not to click the link or enter their credentials if they already clicked it.
 
-**Evidence:**`<investigations/01-phishing-alert/alert4.png>`
+**Evidence:**![Alert 4 Screenshot](./alert4.png)
 
 ---
 
