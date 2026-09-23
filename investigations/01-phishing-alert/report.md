@@ -52,7 +52,7 @@ This email said it was from HR asking the person to finish setting up their prof
 **What I recommended:**
 No action needed, closed the alert.
 
-**Evidence:**`<investigations/01-phishing-alert/alert1.png>`
+**Evidence:**`![Alert 1 Screenshot](./alert1.png)
 
 ---
 
